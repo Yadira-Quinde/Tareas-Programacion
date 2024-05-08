@@ -29,10 +29,10 @@ public class Main extends Application {
             AnchorPane leftPane = new AnchorPane();
 
             // Cargar las imágenes
-            Image imagen1 = new Image("file:///C:/Users/quind/eclipse-workspace/P_tarea/imagenes/Foto1.png");
-            Image imagen2 = new Image("file:///C:/Users/quind/eclipse-workspace/P_tarea/imagenes/Foto2.png");
-            Image imagen3 = new Image("file:///C:/Users/quind/eclipse-workspace/P_tarea/imagenes/Foto3.png");
-            Image imagen4 = new Image("file:///C:/Users/quind/eclipse-workspace/P_tarea/imagenes/Foto4.png");
+            Image imagen1 = new Image("file:///C:/Users/quind/git/P_tarea/P_tarea/imagenes/Foto1.png");
+            Image imagen2 = new Image("file:///C:/Users/quind/git/P_tarea/P_tarea/imagenes/Foto2.png");
+            Image imagen3 = new Image("file:///C:/Users/quind/git/P_tarea/P_tarea/imagenes/Foto3.png");
+            Image imagen4 = new Image("file:///C:/Users/quind/git/P_tarea/P_tarea/imagenes/Foto4.png");
             // Crear ImageViews y ajustar tamaño
             
             ImageView imageView1 = new ImageView(imagen1);
